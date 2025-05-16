@@ -1,0 +1,6 @@
+[submodule "microservices/comments"]
+	path = microservices/comments
+	url = https://github.com/CaiioSantos/ems-algacomments-comments.git
+[submodule "microservices/moderation"]
+	path = microservices/moderation
+	url = https://github.com/CaiioSantos/ems-algacomments-moderation.git
